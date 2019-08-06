@@ -1,0 +1,21 @@
+{
+  "name": "merge-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "tsc",
+    "test": "node build/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinRobertKing/merge-sort-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinRobertKing/merge-sort-typescript/issues"
+  },
+  "homepage": "https://github.com/JustinRobertKing/merge-sort-typescript#readme"
+}
